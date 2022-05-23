@@ -1,0 +1,17 @@
+/* header */
+.banner {
+    background-image: linear-gradient(to left, #052d6e, #0c4094);
+    color: white;
+    border:none;
+    font-size:small;
+}
+
+/* button */
+.button {
+    background-color: #6699ff;
+    color: white;
+    border: none;
+    font-size: 10px;
+    padding: 8px 80px;
+    border-radius: 8px;;
+}
